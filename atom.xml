@@ -1,22 +1,65 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bardbo.github.io</id>
-    <title>Bardbo</title>
-    <subtitle>大刘的真性人格覆面</subtitle>
-    <icon>https://bardbo.github.io/images/favicon.ico</icon>
-    <link href="https://bardbo.github.io" />
-    <author>
-      <name>DaLiu--_--</name>
-    </author>
-    <updated>2024-05-06T13:41:51.000Z</updated>
-    <category term="关键词1" />
-    <category term="关键词2" />
-    <entry>
-        <id>https://bardbo.github.io/2024/05/06/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://bardbo.github.io/2024/05/06/test/"/>
-        <content type="html">&lt;p&gt;仅是测试一下&lt;/p&gt;
-</content>
-        <updated>2024-05-06T13:41:51.000Z</updated>
-    </entry>
+  <id>https://bardbo.github.io/</id>
+  <title>大刘的真性人格覆面</title>
+  <link href="https://bardbo.github.io/atom.xml" rel="self"/>
+  <link href="https://bardbo.github.io/"/>
+  <updated>2026-08-18T00:00:00Z</updated>
+  <author>
+    <name>Bardbo</name>
+  </author>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg</id>
+    <title>皇上您已经连续六天了，今天不能再翻牌子了</title>
+    <link href="https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg"/>
+    <updated>2026-08-15T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA</id>
+    <title>手机远程 vibe coding 方案，看这一个就够了</title>
+    <link href="https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA"/>
+    <updated>2026-08-14T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA</id>
+    <title>进来砸个金蛋？公众号 SVG 交互测试</title>
+    <link href="https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA"/>
+    <updated>2026-08-11T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w</id>
+    <title>现在LoRA训练这么简单？让Hermes帮我把流程全自动了</title>
+    <link href="https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w"/>
+    <updated>2026-08-11T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ</id>
+    <title>我怕你Token用不完，连夜写了一个在 Hermes 里玩酒馆角色卡的技能</title>
+    <link href="https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ"/>
+    <updated>2026-08-06T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA</id>
+    <title>你每天刷1小时热点 AI 30秒就总结完了</title>
+    <link href="https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA"/>
+    <updated>2026-07-27T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag</id>
+    <title>用 Hy-MT2-30B 翻译了一本斯坦贝克的处女作</title>
+    <link href="https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag"/>
+    <updated>2026-07-27T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg</id>
+    <title>花叔的橙皮书技能，现在谁都能用了</title>
+    <link href="https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg"/>
+    <updated>2026-07-23T00:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q</id>
+    <title>想把微信收藏的文章自动整理一下，我踩了这几个坑</title>
+    <link href="https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q"/>
+    <updated>2026-07-22T00:00:00Z</updated>
+  </entry>
 </feed>

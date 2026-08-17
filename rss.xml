@@ -1,26 +1,44 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-    <channel>
-        <title>Bardbo</title>
-        <subtitle>大刘的真性人格覆面</subtitle>
-        <icon>https://bardbo.github.io/images/favicon.ico</icon>
-        <link>https://bardbo.github.io</link>
-        <author>
-          <name>DaLiu--_--</name>
-        </author>
-        <description>这里是大刘的真性人格覆面的博客, 用于记录自己的学习等</description>
-        <language>zh-CN</language>
-        <pubDate>Mon, 06 May 2024 21:41:51 +0800</pubDate>
-        <lastBuildDate>Mon, 06 May 2024 21:41:51 +0800</lastBuildDate>
-        <category term="关键词1" />
-        <category term="关键词2" />
-        <item>
-            <guid isPermalink="true">https://bardbo.github.io/2024/05/06/test/</guid>
-            <title>test</title>
-            <link>https://bardbo.github.io/2024/05/06/test/</link>
-            <pubDate>Mon, 06 May 2024 21:41:51 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;仅是测试一下&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
+<channel>
+  <title>大刘的真性人格覆面</title>
+  <link>https://bardbo.github.io/</link>
+  <description>公众号「穿梭在银河的喵喵」的文章存档</description>
+  <item>
+    <title>皇上您已经连续六天了，今天不能再翻牌子了</title>
+    <link>https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg</link>
+  </item>
+  <item>
+    <title>手机远程 vibe coding 方案，看这一个就够了</title>
+    <link>https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA</link>
+  </item>
+  <item>
+    <title>进来砸个金蛋？公众号 SVG 交互测试</title>
+    <link>https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA</link>
+  </item>
+  <item>
+    <title>现在LoRA训练这么简单？让Hermes帮我把流程全自动了</title>
+    <link>https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w</link>
+  </item>
+  <item>
+    <title>我怕你Token用不完，连夜写了一个在 Hermes 里玩酒馆角色卡的技能</title>
+    <link>https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ</link>
+  </item>
+  <item>
+    <title>你每天刷1小时热点 AI 30秒就总结完了</title>
+    <link>https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA</link>
+  </item>
+  <item>
+    <title>用 Hy-MT2-30B 翻译了一本斯坦贝克的处女作</title>
+    <link>https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag</link>
+  </item>
+  <item>
+    <title>花叔的橙皮书技能，现在谁都能用了</title>
+    <link>https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg</link>
+  </item>
+  <item>
+    <title>想把微信收藏的文章自动整理一下，我踩了这几个坑</title>
+    <link>https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q</link>
+  </item>
+</channel>
 </rss>
