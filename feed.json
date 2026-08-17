@@ -1,16 +1,16 @@
 {
-  "title": "大刘的真性人格覆面",
+  "title": "Bardbo-Blog",
   "home_page_url": "https://bardbo.github.io/",
   "feed_url": "https://bardbo.github.io/feed.json",
   "items": [
-    {"id":"https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg","title":"皇上您已经连续六天了，今天不能再翻牌子了","url":"https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg","date_published":"2026-08-15T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA","title":"手机远程 vibe coding 方案，看这一个就够了","url":"https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA","date_published":"2026-08-14T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA","title":"进来砸个金蛋？公众号 SVG 交互测试","url":"https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA","date_published":"2026-08-11T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w","title":"现在LoRA训练这么简单？让Hermes帮我把流程全自动了","url":"https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w","date_published":"2026-08-11T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ","title":"我怕你Token用不完，连夜写了一个在 Hermes 里玩酒馆角色卡的技能","url":"https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ","date_published":"2026-08-06T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA","title":"你每天刷1小时热点 AI 30秒就总结完了","url":"https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA","date_published":"2026-07-27T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag","title":"用 Hy-MT2-30B 翻译了一本斯坦贝克的处女作","url":"https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag","date_published":"2026-07-27T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg","title":"花叔的橙皮书技能，现在谁都能用了","url":"https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg","date_published":"2026-07-23T00:00:00Z"},
-    {"id":"https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q","title":"想把微信收藏的文章自动整理一下，我踩了这几个坑","url":"https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q","date_published":"2026-07-22T00:00:00Z"}
+    {"title":"皇上您已经连续六天了，今天不能再翻牌子了","url":"https://mp.weixin.qq.com/s/1NY_fwqGi3OiImv7FURRwg","date_published":"2026-08-15T00:00:00Z"},
+    {"title":"手机远程 vibe coding 方案，看这一个就够了","url":"https://mp.weixin.qq.com/s/LtVYAu7gyRCuNC2fIF6TdA","date_published":"2026-08-14T00:00:00Z"},
+    {"title":"进来砸个金蛋？公众号 SVG 交互测试","url":"https://mp.weixin.qq.com/s/78FzJIrd1Y9fAaekdiBIGA","date_published":"2026-08-11T00:00:00Z"},
+    {"title":"现在LoRA训练这么简单？让Hermes帮我把流程全自动了","url":"https://mp.weixin.qq.com/s/7vGymdDCCjm6S_BRTdPu6w","date_published":"2026-08-11T00:00:00Z"},
+    {"title":"我怕你Token用不完，连夜写了一个在 Hermes 里玩酒馆角色卡的技能","url":"https://mp.weixin.qq.com/s/eBjXnsegxeMUnYtHdS0czQ","date_published":"2026-08-06T00:00:00Z"},
+    {"title":"你每天刷1小时热点 AI 30秒就总结完了","url":"https://mp.weixin.qq.com/s/Dx-t-72lFJUnj9n2qAtWyA","date_published":"2026-07-27T00:00:00Z"},
+    {"title":"用 Hy-MT2-30B 翻译了一本斯坦贝克的处女作","url":"https://mp.weixin.qq.com/s/2hyHQrSnaH0jE_3PlyA7ag","date_published":"2026-07-27T00:00:00Z"},
+    {"title":"花叔的橙皮书技能，现在谁都能用了","url":"https://mp.weixin.qq.com/s/2CoBryJgGOktv73RcWOpQg","date_published":"2026-07-23T00:00:00Z"},
+    {"title":"想把微信收藏的文章自动整理一下，我踩了这几个坑","url":"https://mp.weixin.qq.com/s/7_ZB2mJWdfq_w3NtbuwN0Q","date_published":"2026-07-22T00:00:00Z"}
   ]
 }
